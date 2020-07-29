@@ -1,5 +1,5 @@
 
-//简单的红包雨demo
+//原生canvas实现简单的红包雨demo
 import React, { Fragment } from "react";
 import css from "./index.less";
 
