@@ -1,4 +1,3 @@
-//使用phaser实现红包雨功能demo
 import React, { Fragment } from "react";
 import css from "./index.less";
 import Phaser from "phaser";
